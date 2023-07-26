@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anton\\source\\repos\\POOI_MINECRAFT\\POOI_MINECRAFT\\POOI_MINECRAFT.csproj": {}
+    "C:\\Users\\anton\\Documents\\Github\\Minecraft2D\\POOI_MINECRAFT\\POOI_MINECRAFT\\POOI_MINECRAFT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anton\\source\\repos\\POOI_MINECRAFT\\POOI_MINECRAFT\\POOI_MINECRAFT.csproj": {
+    "C:\\Users\\anton\\Documents\\Github\\Minecraft2D\\POOI_MINECRAFT\\POOI_MINECRAFT\\POOI_MINECRAFT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anton\\source\\repos\\POOI_MINECRAFT\\POOI_MINECRAFT\\POOI_MINECRAFT.csproj",
+        "projectUniqueName": "C:\\Users\\anton\\Documents\\Github\\Minecraft2D\\POOI_MINECRAFT\\POOI_MINECRAFT\\POOI_MINECRAFT.csproj",
         "projectName": "POOI_MINECRAFT",
-        "projectPath": "C:\\Users\\anton\\source\\repos\\POOI_MINECRAFT\\POOI_MINECRAFT\\POOI_MINECRAFT.csproj",
+        "projectPath": "C:\\Users\\anton\\Documents\\Github\\Minecraft2D\\POOI_MINECRAFT\\POOI_MINECRAFT\\POOI_MINECRAFT.csproj",
         "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anton\\source\\repos\\POOI_MINECRAFT\\POOI_MINECRAFT\\obj\\",
+        "outputPath": "C:\\Users\\anton\\Documents\\Github\\Minecraft2D\\POOI_MINECRAFT\\POOI_MINECRAFT\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

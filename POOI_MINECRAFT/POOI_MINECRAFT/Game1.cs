@@ -14,7 +14,6 @@ namespace POOI_MINECRAFT
         float h = 0;
 
         TerrainGenerator terrain;
-        TextureManager textureManager;
 
         public static ContentManager content;
 
@@ -34,9 +33,7 @@ namespace POOI_MINECRAFT
         {
             // TODO: Add your initialization logic here
 
-            //Definición del objeto
             terrain = new TerrainGenerator();
-            textureManager = new TextureManager();
 
             base.Initialize();
         }
@@ -45,13 +42,9 @@ namespace POOI_MINECRAFT
         {
             _spriteBatch = new SpriteBatch(GraphicsDevice);
 
-            //Declaración: En este momento, ya empieza a exisitr la textura en momoria.
-            //La computadora ya hace un espacio para que este objeto viva.
+            TextureManager.Instance.LoadTextures();
 
-            foreach (Block block in terrain.tiles)
-                block.texture = content.Load<Texture2D>("Textures/T_Dirt");
-
-            // TODO: use this.Content to load your game content here
+            terrain.LoadContent();
         }
 
         protected override void Update(GameTime gameTime)

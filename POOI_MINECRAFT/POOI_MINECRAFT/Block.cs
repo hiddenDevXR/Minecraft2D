@@ -15,6 +15,11 @@ namespace POOI_MINECRAFT
             this.position = position;
         }
 
+        public void LoadContent(Block block)
+        {
+            texture = TextureManager.Instance.AssignTexture(block);
+        }
+
         public Vector2 GetPosition()
         {
             return position;

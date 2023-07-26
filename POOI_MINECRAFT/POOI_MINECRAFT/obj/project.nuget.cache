@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "60MEkz0mQRWy3z+0yg+xHwTQf0wvHHACp7jNjbrbvWxzIsrI0hT4KCB0k7B3Yj6wjdLtyxIdadLe3Bf+FqYO1A==",
+  "dgSpecHash": "FeiP5CxnB1C/S9HWE/1rXGDOtrcyW3gCaGQ5QYp8DwzG8nyN14Yyu0PFZZomEo1TdBe9W2M7PbuIhZT6N0U6Ag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\anton\\source\\repos\\POOI_MINECRAFT\\POOI_MINECRAFT\\POOI_MINECRAFT.csproj",
+  "projectFilePath": "C:\\Users\\anton\\Documents\\Github\\Minecraft2D\\POOI_MINECRAFT\\POOI_MINECRAFT\\POOI_MINECRAFT.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anton\\.nuget\\packages\\libuv\\1.9.1\\libuv.1.9.1.nupkg.sha512",
     "C:\\Users\\anton\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\1.1.0\\microsoft.codeanalysis.analyzers.1.1.0.nupkg.sha512",
