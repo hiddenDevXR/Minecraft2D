@@ -37,6 +37,18 @@
 /processorParam:TextureFormat=Color
 /build:Textures/T_Dirt.png
 
+#begin Textures/T_Pickaxe.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Textures/T_Pickaxe.png
+
 #begin Textures/T_Placeholder.png
 /importer:TextureImporter
 /processor:TextureProcessor

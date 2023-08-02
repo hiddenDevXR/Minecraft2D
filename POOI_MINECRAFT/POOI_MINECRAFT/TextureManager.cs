@@ -60,6 +60,9 @@ namespace POOI_MINECRAFT
             if (block.GetType() == typeof(Diamond))
                 return textureList[3];
 
+            if (block.GetType() == typeof(Tool))
+                return textureList[4];
+
             else return null;
         }
     }

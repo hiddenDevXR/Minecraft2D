@@ -9,6 +9,7 @@ namespace POOI_MINECRAFT
 
         public Diamond(Vector2 position) : base(position)
         {
+            resistance = 9;
         }
     }
 }

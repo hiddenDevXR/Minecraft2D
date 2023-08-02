@@ -9,6 +9,7 @@ namespace POOI_MINECRAFT
 
         public Rock(Vector2 position) : base(position)
         {
+            resistance = 5;
         }
     }
 }

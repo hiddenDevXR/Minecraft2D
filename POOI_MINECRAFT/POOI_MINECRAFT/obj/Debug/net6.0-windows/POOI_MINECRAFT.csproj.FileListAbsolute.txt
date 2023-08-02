@@ -77,3 +77,4 @@ C:\Users\anton\Documents\Github\Minecraft2D\POOI_MINECRAFT\POOI_MINECRAFT\obj\De
 C:\Users\anton\Documents\Github\Minecraft2D\POOI_MINECRAFT\POOI_MINECRAFT\bin\Debug\net6.0-windows\Content\Textures\T_Diamond.xnb
 C:\Users\anton\Documents\Github\Minecraft2D\POOI_MINECRAFT\POOI_MINECRAFT\bin\Debug\net6.0-windows\Content\Textures\T_Placeholder.xnb
 C:\Users\anton\Documents\Github\Minecraft2D\POOI_MINECRAFT\POOI_MINECRAFT\bin\Debug\net6.0-windows\Content\Textures\T_Rock.xnb
+C:\Users\anton\Documents\Github\Minecraft2D\POOI_MINECRAFT\POOI_MINECRAFT\bin\Debug\net6.0-windows\Content\Textures\T_Pickaxe.xnb

@@ -2,4 +2,3 @@
 T_Dirt
 T_Rock
 T_Diamond
-T_Pickaxe
